@@ -1,0 +1,16 @@
+h3{
+    font-size: 25px !important;
+}
+.btn-warning:hover{
+    background-color: green;
+}
+canvas{
+    animation-name: LOL;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes LOL{
+0%   {box-shadow:1px 1px 38px red;}
+50%  {box-shadow:1px 1px 38px blue;}
+100% {box-shadow:1px 1px 38px green;}
+}
