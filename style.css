@@ -5,16 +5,18 @@ h3{
     background-color: green;
 }
 canvas{
-    animation-name: rgb;
+    animation-name: LOL;
     animation-duration: 4s;
     animation-iteration-count: infinite;
 }
-@keyframes rgb{
+@keyframes LOL{
 0%   {box-shadow:1px 1px 38px red;}
 33%  {box-shadow:1px 1px 38px blue;}
 100% {box-shadow:1px 1px 38px green;}
 }
 
-body{
-    background-image: "2.jpg";
-}
+
+    
+    
+
+
